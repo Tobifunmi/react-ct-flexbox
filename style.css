@@ -1,0 +1,16 @@
+*{
+    margin: 30px;
+    border-radius: 2px;
+}
+
+#head1{
+ background-color: aqua;   
+}
+
+p{
+    background-color: blueviolet;
+}
+
+.lorem{
+    background-color: burlywood;
+}
